@@ -1,4 +1,4 @@
-USE clinicaodonto;
+-- USE clinicaodonto;
 
 -- Tabela: Clinica
 CREATE TABLE Clinica (
